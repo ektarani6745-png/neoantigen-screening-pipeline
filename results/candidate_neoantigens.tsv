@@ -1,0 +1,4 @@
+Gene	Mutation	WT_9mer	MT_Neoantigen_9mer	WT_Hydrophobicity	MT_Hydrophobicity	Hydrophobicity_Shift
+TP53	p.R248Q	GGMNRRPIL	GGMNQRPIL	-0.522	-0.411	0.111
+KRAS	p.G12D	VVGAGGVGK	VVGADGVGK	0.989	0.644	-0.345
+BRAF	p.V600E	GLATVKSRW	GLATEKSRW	-0.156	-1.011	-0.855
